@@ -1,0 +1,10 @@
+{
+  "last_checkin": "Tue Dec 30 08:00:09 AM UTC 2025",
+  "metrics": {
+    "encryption_speed_mbs": "6",
+    "cpu_usage_pct": "25.3",
+    "mem_free_mb": "316",
+    "stealth_decoy_score": "1",
+    "tor_active": "inactive"
+  }
+}
